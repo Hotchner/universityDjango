@@ -1,0 +1,10 @@
+# Ignore o ambiente virtual
+venv/
+
+# Ignore arquivos de configuração específicos do IDE
+*.pyc
+*.pyo
+__pycache__/
+
+# Ignore arquivos de banco de dados SQLite
+db.sqlite3
